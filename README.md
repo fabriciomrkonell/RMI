@@ -2,9 +2,11 @@ Remote Method Invocation
 ===
 
 Introdução
+
 RMI é uma das abordagens da tecnologia Java para prover as funcionalidades de uma plataforma de objetos distribuídos. Esse sistema de objetos distribuídos faz parte do núcleo básico de Java desde a versão JDK 1.1, com sua API sendo especificada através do pacote java.rmi. 
 
 Processos Distribuídos
+
 “Um sistema distribuído é uma coleção de computadores independentes que aparecem para os usuários do sistema como um único computador.” (Tanenbaum)
 “Consiste de uma coleção de computadores autônomos ligados através de uma rede e equipados com software de sistemas distribuídos” (Coulouris)
 
