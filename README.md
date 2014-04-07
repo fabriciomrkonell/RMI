@@ -1,6 +1,15 @@
 Remote Method Invocation
 ===
 
+Seminário RMI
+
+Equipe: Emiliano, Fabrício, João e Rubens
+
+Programação 5
+
+Bacharel em Sistemas de Informação
+
+
 Introdução
 
 RMI é uma das abordagens da tecnologia Java para prover as funcionalidades de uma plataforma de objetos distribuídos. Esse sistema de objetos distribuídos faz parte do núcleo básico de Java desde a versão JDK 1.1, com sua API sendo especificada através do pacote java.rmi. 
