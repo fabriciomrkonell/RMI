@@ -1,14 +1,13 @@
 Remote Method Invocation
 ===
 
-Seminário RMI
-
 Equipe: Emiliano, Fabrício, João e Rubens
 
 Programação 5
 
 Bacharel em Sistemas de Informação
 
+===
 
 Introdução
 
