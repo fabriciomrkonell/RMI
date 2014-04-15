@@ -1,8 +1,13 @@
-Equipe: Emiliano, Fabrício, João e Rubens
+Apresentação disponível <a href="https://speakerdeck.com/fabricioronchi/eclipselink" target="_blank">aqui</a>.
 
-Programação 5
+Aplicação disponível <a href="https://speakerdeck.com/fabricioronchi/eclipselink" target="_blank">aqui</a>.
+
+Equipe: Fabrício, João, Emiliano, Everton e Rubens
+
+Programação V
 
 Bacharel em Sistemas de Informação
+
 
 Remote Method Invocation
 ===
