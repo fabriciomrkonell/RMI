@@ -1,4 +1,4 @@
-Apresentação disponível <a href="https://speakerdeck.com/fabricioronchi/rmi-remote-method-invocation" target="_blank">aqui</a>.
+Apresentação disponível <a href="https://speakerdeck.com/realronchi/rmi-remote-method-invocation" target="_blank">aqui</a>.
 
 Aplicação disponível <a href="https://github.com/FabricioRonchi/ApllicationRMI" target="_blank">aqui</a>.
 
